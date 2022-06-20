@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EthanJcoding
 - 👀 I’m crazy about efficiency
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me via github
 
 <!---
 EthanJcoding/EthanJcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
